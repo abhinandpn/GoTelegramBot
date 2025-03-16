@@ -1,3 +1,3 @@
-module github.com/abhinandpn/Go-S3ImageUpload
+module github.com/abhinandpn/GoTelegramBot
 
 go 1.23.6
